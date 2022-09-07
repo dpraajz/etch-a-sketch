@@ -3,3 +3,9 @@
     margin: 2px;
     border: 1px solid green;
 }
+
+.divs:hover{
+    cursor: pointer;
+    color: blue;
+    background-color: lightgoldenrodyellow;
+}
